@@ -1,4 +1,4 @@
-package se.chasacademy.ahmeteser.fritidslagret.alla_veckor.vecka2.Klass_för_book;
+package se.chasacademy.ahmeteser.fritidslagret.alla_veckor.vecka2.Upgift4_Klass_för_book;
 
 public class Book {
 

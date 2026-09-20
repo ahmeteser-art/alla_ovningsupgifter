@@ -1,6 +1,6 @@
 package se.chasacademy.ahmeteser.fritidslagret.alla_veckor.vecka2;
 
-public class Hitta_langsta_namn {
+public class Upgift2_Hitta_langsta_namn {
     /*
     Uppgift 2: Hitta det längsta namnet
     Skapa en array med minst fem namn.

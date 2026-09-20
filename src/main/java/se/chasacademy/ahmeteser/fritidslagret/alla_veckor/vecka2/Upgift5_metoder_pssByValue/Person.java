@@ -1,4 +1,4 @@
-package se.chasacademy.ahmeteser.fritidslagret.alla_veckor.vecka2.metoder_pssByValue;
+package se.chasacademy.ahmeteser.fritidslagret.alla_veckor.vecka2.Upgift5_metoder_pssByValue;
 
 public class Person {
 

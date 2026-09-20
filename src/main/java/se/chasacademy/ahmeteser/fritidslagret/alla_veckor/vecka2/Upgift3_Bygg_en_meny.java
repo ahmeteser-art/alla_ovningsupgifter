@@ -1,6 +1,6 @@
 package se.chasacademy.ahmeteser.fritidslagret.alla_veckor.vecka2;
 
-public class Bygg_en_meny {
+public class Upgift3_Bygg_en_meny {
     /*
     Uppgift 3: Bygg en meny med while-loop
     Skapa en enkel meny som visas tills användaren väljer att avsluta programmet.
@@ -33,7 +33,7 @@ public class Bygg_en_meny {
             choice = Integer.parseInt(input);
 
             switch (choice){
-                case 1 -> IO.println("hhey och welkommen!");
+                case 1 -> IO.println("hey och welcome!");
                 case 2 -> {
 
                     String getNumber = IO.readln("please enter a number: ");

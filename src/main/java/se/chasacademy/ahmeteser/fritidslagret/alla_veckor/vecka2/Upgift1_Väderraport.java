@@ -1,6 +1,8 @@
 package se.chasacademy.ahmeteser.fritidslagret.alla_veckor.vecka2;
 
-public class Väderraport {
+import java.util.Arrays;
+
+public class Upgift1_Väderraport {
     /*
     Uppgift 1: Väderrapport
     Skapa en variabel av typen enum som heter Weather.
@@ -30,15 +32,20 @@ public class Väderraport {
           case SNOWY ->  IO.println("The weather is "+ weather+" today");
       }
 
-      }
+     Weather[] values = Weather.values();
+
+     IO.println(Arrays.toString(values));
+ }
 
 
 
 
-    enum Weather{
+   public enum Weather{
         SUNNY,
         CLOUDY,
         RAINY,
         SNOWY
+
+
   }
 }
